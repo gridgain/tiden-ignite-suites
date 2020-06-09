@@ -1,0 +1,5 @@
+.idea
+__pycache__
+var
+work/gatling-test/target/
+work/gatling-test/maven-build-*.log
